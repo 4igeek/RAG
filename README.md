@@ -18,3 +18,7 @@
 5) Create a file in the root of the project called `.env`
 
 6) Add a new line to .env which contains your OpenAI key information i.e. `OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` (replacing the X's with your actual key).
+
+7) Replace the PDFs in the `data` folder with your own content (this is the data that will be used in RAG).
+
+Once all that is done you should be able to run the project locally.
