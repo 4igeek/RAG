@@ -14,3 +14,7 @@
 4) Install all the dependencies (ensuring venv is activated) using the following: 
 
 ``pip install -r requirements.txt``.
+
+5) Create a file in the root of the project called `.env`
+
+6) Add a new line to .env which contains your OpenAI key information i.e. `OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` (replacing the X's with your actual key).
