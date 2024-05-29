@@ -1,7 +1,7 @@
 ## Installing the project on your own machine
 1) Navigate to where you want to install the project files on your computer and then run the following to clone the project to that folder.
 
-``git clone https://github.com/4igeek/RAG.git .`` 
+<p style="text-align: center;">``git clone https://github.com/4igeek/RAG.git .``</p>
 
 2) Setup a virtual environment using the following command: 
 
