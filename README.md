@@ -11,7 +11,7 @@
 
 ``conda activate venv``.
 
-4) Install all the dependencies (ensuring venv is activated) using the following: 
+4) Install all the dependencies (ensuring venv is activated - see step 3) using the following: 
 
 ``pip install -r requirements.txt``.
 
