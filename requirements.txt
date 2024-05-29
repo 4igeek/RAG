@@ -2,3 +2,9 @@ llama-index
 openai
 pypdf
 python-dotenv
+transformers # Llama2
+einops # Llama2
+accelerate # Llama2
+langchain # Llama2
+bitsandbytes # Llama2
+sentence_transformers # Llama2
