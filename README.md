@@ -21,4 +21,8 @@
 
 7) Replace the PDFs in the `data` folder with your own content (this is the data that will be used in RAG).
 
+8) Change the prompt (line 17 in main.py) to your question that you need answering.
+
+9) Run the program my typing `python main.py` into your terminal.
+
 Once all that is done you should be able to run the project locally.
